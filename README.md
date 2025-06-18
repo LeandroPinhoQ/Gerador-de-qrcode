@@ -1,1 +1,1 @@
-Gerador de senha simples para geracao se desnha aletorios.
+Aplicativo para gerar códigos QR a partir de URLs.
